@@ -1,0 +1,39 @@
+.banner-card{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.banner-text{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    color: #FFFF;
+    padding: 60px 206px 0px 500px;
+    
+}
+.section-title{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    
+}
+.section-name{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0%;
+   
+    
+}
+.section-description{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+.add-image{
+    padding: 10px 300px 0px 450px;
+}
