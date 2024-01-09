@@ -125,9 +125,86 @@ body{
 
 .sec-year{
     color: #F00;
-font-family: Inter;
-font-size: 48px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+    font-size: 48px;
+    font-weight: 700;
 }
+.fun{
+    color: #070211;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 500;
+}
+.sec-fun{
+    color: #F00;
+    line-height: 0%;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+.sale{
+    color: #070211;
+    font-size: 50px;
+    font-weight: 900;
+}
+.rec{
+    padding: 40px 450px 100px 890px;
+}
+.discunt{
+   position: absolute;
+    top: 520%;
+    padding: 0px -150% 0px 80px;
+}
+.rec2{
+    position: absolute;
+    top: 580%;
+    padding: 0px 130px 230px -500px;
+}
+.rec3{
+    position: absolute;
+    top: -200%;
+    padding: 0px 130px 230px 0px;
+}
+.prod{
+        position: absolute;
+        top: 620%;
+        padding: 0px 130px 230px -500px;
+        line-height: normal;
+        display: block;
+}
+.size{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+div img{
+    margin: 4px;
+}
+.subs{
+    position: absolute;
+        top: 810%;
+        padding: 10px 0px 0px 340px;
+        text-align: center;
+        line-height: normal;
+        display: block;
+}
+.btn{
+    border-radius: 10px;
+    background: #F00;
+    color: #FFF;
+    width: 150px;
+    height: 72px;
+    flex-shrink: 0;
+    margin-left: 570px;
+}
+.footer{
+    position: absolute;
+        padding: 10px 450px 100px 600px;
+        top: 880%;
+        background: #070211;
+}
+.text{
+    display: flex;
+    justify-items: center;
+    padding: 50%;
+    
+ }
